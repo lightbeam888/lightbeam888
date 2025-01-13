@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RealToma&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=blackbeam811&style=for-the-badge)
 <br/>
 
 
@@ -6,11 +6,12 @@
 
 ---
 
-Howdy, I'm a senior full-stack & blockchain developer. <br/>
-I have over 12 years of experience in building websites & web apps & software development and 5 years of experience in blockchain projects. <br/>
-I am very strong in building frontend UI based on responsive features, translating UX/UI designs into interactive interfaces, and collaborating with the backend for API & web3 integrations. <br/>
+Howdy, I'm a senior Web3 & AI developer. <br/>
+I have over 8 years of experience in building websites & web apps & software development, 5 years of experience in blockchain projects and 1 years experience in AI projects. <br/>
+I am very strong in building frontend UI based on responsive features, translating UX/UI designs into interactive interfaces, and collaborating with the backend for API & web3 & AI integrations. <br/>
 I have rich experience in building dapps, staking/farming/lending, NFT marketplace, P2E/bots etc, so I have been working in the blockchain field for around 5 years. <br/>
 As a professional who has thrived in roles such as Project Manager and Lead Developer, I bring to the table a comprehensive blend of technical expertise and leadership acumen. <br/>
+Recently focusing on trading bots, telegram mini apps and ai chat bot development.
 
 My comprehensive knowledge and experience span across:
 
@@ -21,8 +22,8 @@ My comprehensive knowledge and experience span across:
 - Mobile: React Native, Java, Flutter, Kotlin ...
 - PM Tools: Github, Gitlab, Trello, Monday, Bitbucket, Jira ...
 - Services: Netlify/Vercel, Docker, AWS, Azure, Google Cloud, Heroku, IPFS ...
-- Others: Figma, Adobe XD, Webflow, Linux, nginx, Hostinger …
-
+- Others: Figma, Adobe XD, Webflow, Linux, nginx, Hostinger ...
+  
 So, I am passionate about launching, developing, and maintaining web and blockchain projects, leveraging my broad experience in frontend and backend development, Web3 integration, system and application security, auditing, and project management, alongside my intuitive problem-solving skills.
 <br/>
 
