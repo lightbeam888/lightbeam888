@@ -37,7 +37,7 @@ So, I am passionate about launching, developing, and maintaining web and blockch
 <a href="https://twitter.com/moonlight98110">
   <img align="left" alt="blackbeam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/balckbeam811">
+<a href="https://github.com/blackbeam811">
   <img align="left" alt="blackbeam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
