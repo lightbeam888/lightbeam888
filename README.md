@@ -46,6 +46,6 @@ So, I am passionate about launching, developing, and maintaining web and blockch
 </a>
 
 <a href="https://dev.to/blackbeam811">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="blackbeam's DEV Profile" height="22" width="22">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="blackbeam's DEV Profile" height="24" width="24">
 </a>
 
