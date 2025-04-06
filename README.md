@@ -11,7 +11,7 @@
 </a>
 
 <br/>
-<img height = "150em"  src="https://github-readme-stats.vercel.app/api?username=lightbeam888&theme=one_dark_pro&show_icons=true&locale=en" alt="lightbeam888" />
+
 
 
 
